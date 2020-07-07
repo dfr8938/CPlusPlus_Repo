@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linuxlite/workspace/cplusplus/cpr/Courses/OTUS/Basis/helloworld/hello_world.cpp
+iostream
+-
+string
+-
+version.h
+/home/linuxlite/workspace/cplusplus/cpr/Courses/OTUS/Basis/helloworld/version.h
+
+/home/linuxlite/workspace/cplusplus/cpr/Courses/OTUS/Basis/helloworld/version.cpp
+version.h
+/home/linuxlite/workspace/cplusplus/cpr/Courses/OTUS/Basis/helloworld/version.h
+
+/home/linuxlite/workspace/cplusplus/cpr/Courses/OTUS/Basis/helloworld/version.h
+
